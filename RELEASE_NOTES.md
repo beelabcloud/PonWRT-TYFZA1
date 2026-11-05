@@ -1,3 +1,6 @@
+## 0.8.6-beta
+- Added feature X.
+- Fixed add xfs mod, ntfs3 mod
 ## v0.8.4-beta
 
 - 修复硬件流量卸载时可能触发的内核崩溃和自动重启。
