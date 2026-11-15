@@ -1,3 +1,6 @@
+## v0.8.6-beta
+
+- 新增 exfat, ext4 msdos, ntfs3, xfs, lsblk, blkid, usbutils, sftp-server,htop, luci-light。
 ## v0.8.5-beta
 
 - 新增 Client / STA 模式，支持连接上级 Wi-Fi，并可配合另一频段组成无线中继。
