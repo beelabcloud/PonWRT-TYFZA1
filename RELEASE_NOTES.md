@@ -1,4 +1,4 @@
-## v0.8.6-beta
+## v0.8.7-beta
 
 - 新增 exfat, ext4 msdos, ntfs3, xfs, lsblk, blkid, usbutils, sftp-server,htop, luci-light。
 ## v0.8.5-beta
